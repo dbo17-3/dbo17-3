@@ -1,7 +1,7 @@
 # 🚀 Damien B.
 
 ## 📌 À propos de moi  
-"Curieux de nature, j'aime découvrir, apprendre et relever de nouveaux défis. Que ce soit derrière mon écran à coder (fullstack junior) ou devant une paroi d'escalade, je fais tout pour atteindre mon objectif."
+"Curieux de nature, j'aime découvrir, apprendre et relever de nouveaux défis. Que ce soit derrière mon écran à coder (fullstack junior) ou devant une paroi d'escalade, je fais tout pour atteindre mes objectifs."
 
 ## 🎓 Formation  
 - 📍 Lycée professionnel Val de Bièvre – Baccalauréat de comptabilité – 2005  
